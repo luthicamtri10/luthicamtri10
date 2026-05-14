@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1">
+      <stop offset="0%" stop-color="#06b6d4"/>
+      <stop offset="100%" stop-color="#7c3aed"/>
+    </linearGradient>
+  </defs>
+  <rect width="100%" height="100%" fill="#0f172a" />
+  <rect x="30" y="30" width="1140" height="240" rx="14" fill="url(#g)" opacity="0.12" />
+  <g font-family="Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial" fill="#fff">
+    <text x="60" y="120" font-size="44" font-weight="700">Lữ Thị Cẩm Tri</text>
+    <text x="60" y="170" font-size="20" fill="#e6eef8">Fullstack Developer — Vibe Coding</text>
+  </g>
+  <g transform="translate(960,40)">
+    <rect x="0" y="0" width="180" height="220" rx="10" fill="#ffffff10" />
+    <text x="12" y="120" font-family="Inter, system-ui, -apple-system" font-size="12" fill="#fff">Ho Chi Minh City</text>
+    <text x="12" y="145" font-family="Inter" font-size="12" fill="#fff">Spring 2026</text>
+  </g>
+</svg>
