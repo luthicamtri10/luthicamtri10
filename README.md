@@ -21,23 +21,22 @@ Here are some ideas to get you started:
 
 # Lữ Thị Cẩm Tri — Fullstack Developer (Vibe Coding)
 
-Xin chào! Tôi là Lữ Thị Cẩm Tri 🌊
+Hi there! I'm Lữ Thị Cẩm Tri 🌊
 
-Tôi là sinh viên năm tư ngành Kỹ thuật Phần mềm tại Trường Đại học Sài Gòn (SGU). Tôi là một lập trình viên nhiệt huyết, chú ý tới chi tiết, chuyên phát triển các ứng dụng web và mobile có khả năng mở rộng. Triết lý làm việc của tôi là "Vibe Coding" — ưu tiên sáng tạo, tốc độ và hiệu quả bằng quy trình hỗ trợ bởi AI.
+I'm a fourth-year Software Engineering student at Sai Gon University (SGU). I'm a motivated, detail-oriented developer specializing in building scalable web and mobile applications. My working philosophy is "Vibe Coding" — prioritizing creativity, speed, and efficiency through AI-assisted workflows.
 
-- 📍 Thành phố Hồ Chí Minh, Việt Nam
-- 🎓 Dự kiến tốt nghiệp: Spring 2026
-- 🚀 Mục tiêu: Tìm internship Fullstack Developer để đóng góp vào các sản phẩm có tác động thực tế
-
+- 📍 Ho Chi Minh City, Vietnam
+- 🎓 Expected Graduation: Spring 2026
+- 🚀 Goal: Seeking a Fullstack Developer Internship to contribute to real-world impactful products.
 ---
 
-**Kỹ năng chuyên môn (Technical Skills & Expertise)**
+**Technical Skills & Expertise**
 
 🛠 Technical Stack
 
 - **Backend:** C# / .NET Core 9.0 (Clean Architecture, MediatR, CQRS), Java Spring Boot (RESTful APIs)
 - **Frontend:** React.js, Next.js, Tailwind CSS
-- **Mobile:** React Native (Cross-platform) — đã triển khai tính năng như Location Tracking và QR Scanning
+- **Mobile:** React Native (Cross-platform) — implemented features such as Location Tracking and QR Scanning
 - **Database & Tools:** SQL Server, MySQL, Entity Framework Core, Git/GitHub, Docker, Postman
  
 **Tech Stack (Icons)**
@@ -61,33 +60,34 @@ Tôi là sinh viên năm tư ngành Kỹ thuật Phần mềm tại Trường Đ
 
 ---
 
-**Kinh nghiệm dự án tiêu biểu (Featured Projects)**
+**Featured Projects**
 
 1) Automated Narration & Stall Management System — Vinh Khanh Market Ecosystem
 
-	 - Vai trò: Frontend & Mobile Developer
-	 - Tổng quan: Nền tảng web và mobile tập trung, số hóa vận hành chợ và nâng cao trải nghiệm du khách.
-	 - Tính năng chính:
-		 - Phát thuyết minh tự động theo vị trí (Location Tracking) hoặc quét QR Code
-		 - Role-Based Access Control (Admins, Merchants, Users)
-		 - Booking và thanh toán tích hợp
-	 - Tech Stack: React Native (Mobile), React.js (Web), Java Spring Boot, MySQL
-	 - Source: https://github.com/thankhanh/Seminar_sgu
+   - Role: Frontend & Mobile Developer
+   - Overview: A centralized web and mobile platform designed to digitize market operations and enhance visitor experiences.
+   - Key Features:
+     - Automated localized audio narration triggered by Location Tracking or QR Code interaction
+     - Role-Based Access Control (Admins, Merchants, Users)
+     - Integrated online booking and payment capabilities
+   - Tech Stack: React Native (Mobile), React.js (Web), Java Spring Boot, MySQL
+   - Source: https://github.com/thankhanh/Seminar_sgu
 
 2) StoreApp — Store Management System (E-commerce Backend)
 
-	 - Vai trò: Backend Developer
-	 - Kiến trúc: Xây dựng với ASP.NET Core 9.0 theo Clean Architecture (Onion) để đảm bảo khả năng bảo trì và mở rộng.
-	 - Tính năng chính:
-		 - Bảo mật: JWT Authentication với Refresh Tokens và xác thực OTP qua email
-		 - Xử lý đơn hàng: Tích hợp cổng VNPay và dịch vụ nền (Order AutoCancelService) để hủy đơn chưa thanh toán khi hết hạn
-		 - Quản lý tồn kho: Quản lý nhập kho thông qua Good Received Notes (GRN)
-		 - Thiết kế: Sử dụng MediatR (CQRS), Repository Pattern và Fluent Validation
-	 - Source: https://github.com/thaovy3724/ASP.NET
+   - Role: Backend Developer
+   - Architecture: Built with ASP.NET Core 9.0 following Clean Architecture (Onion) to ensure maintainability and scalability.
+   - Key Features:
+     - Security: JWT Authentication with Refresh Tokens and email-based OTP verification
+     - Order Processing: Integrated VNPay gateway and a background service (Order AutoCancelService) to manage expired unpaid orders
+     - Inventory: Managed stock levels through Good Received Notes (GRN)
+     - Design Patterns: MediatR (CQRS), Repository Pattern, and Fluent Validation
+   - Source: https://github.com/thaovy3724/ASP.NET
 
 ---
 
-**Thông tin liên hệ (Contact)**
+
+**Contact**
 
 📫 Let's Connect!
 
@@ -98,4 +98,4 @@ Tôi là sinh viên năm tư ngành Kỹ thuật Phần mềm tại Trường Đ
 
 ---
 
-Nếu bạn quan tâm hợp tác, internship hoặc muốn xem chi tiết dự án, cứ liên hệ trực tiếp qua email hoặc GitHub — tôi rất sẵn lòng trao đổi thêm!
+If you're interested in collaboration, internships, or want to see more project details, feel free to reach out via email or GitHub — I'd be happy to discuss further!
