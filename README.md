@@ -64,8 +64,15 @@ I'm a fourth-year Software Engineering student at Sai Gon University (SGU). I'm 
 - **Focus areas:** Scalable backend, RBAC/security, payment integration, location-based features
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=luthicamtri10&show_icons=true&theme=dark&hide_border=true" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luthicamtri10&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+  <!-- GitHub Readme Stats service currently paused for some deployments; using shields fallback -->
+  <a href="https://github.com/luthicamtri10" target="_blank">
+    <img src="https://img.shields.io/github/followers/luthicamtri10?label=Followers&style=social" alt="Followers" />
+    <img src="https://img.shields.io/github/stars/luthicamtri10?label=Stars" alt="Stars" />
+    <img src="https://img.shields.io/github/repo-size/luthicamtri10/luthicamtri10.github.io?label=Site%20Repo%20Size" alt="Repo size" />
+    <img src="https://img.shields.io/github/issues/luthicamtri10/luthicamtri10.github.io?label=Site%20Issues" alt="Issues" />
+  </a>
+  
+  <p style="margin-top:8px; font-size:12px; color:#888">Note: The GitHub Readme Stats service may be temporarily unavailable; visit the profile for full stats.</p>
 </p>
 
 
