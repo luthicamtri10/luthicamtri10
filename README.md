@@ -72,6 +72,11 @@ I'm a fourth-year Software Engineering student at Sai Gon University (SGU). I'm 
     <img src="https://img.shields.io/github/issues/luthicamtri10/luthicamtri10.github.io?label=Site%20Issues" alt="Issues" />
   </a>
   
+  <a href="https://luthicamtri10.github.io/">
+  <button>
+    Portfolio
+  </button>
+  </a>
   <p style="margin-top:8px; font-size:12px; color:#888">Note: The GitHub Readme Stats service may be temporarily unavailable; visit the profile for full stats.</p>
 </p>
 
