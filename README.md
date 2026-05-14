@@ -81,30 +81,44 @@ I'm a fourth-year Software Engineering student at Sai Gon University (SGU). I'm 
 
 
 ---
+---
 
-**Featured Projects**
+## 🚀 Featured Projects
 
-1) Automated Narration & Stall Management System — Vinh Khanh Market Ecosystem
+Below are two highlighted projects — quick overview, key features, and links to source code.
 
-   - Role: Frontend & Mobile Developer
-   - Overview: A centralized web and mobile platform designed to digitize market operations and enhance visitor experiences.
-   - Key Features:
-     - Automated localized audio narration triggered by Location Tracking or QR Code interaction
-     - Role-Based Access Control (Admins, Merchants, Users)
-     - Integrated online booking and payment capabilities
-   - Tech Stack: React Native (Mobile), React.js (Web), Java Spring Boot, MySQL
-   - Source: https://github.com/thankhanh/Seminar_sgu
+<details>
+<summary><strong>Automated Narration & Stall Management — Vinh Khanh Market Ecosystem</strong></summary>
 
-2) StoreApp — Store Management System (E-commerce Backend)
+**Role:** Frontend & Mobile Developer  
+**Overview:** Centralized web + mobile platform to digitize market operations and enhance visitor experiences.
 
-   - Role: Backend Developer
-   - Architecture: Built with ASP.NET Core 9.0 following Clean Architecture (Onion) to ensure maintainability and scalability.
-   - Key Features:
-     - Security: JWT Authentication with Refresh Tokens and email-based OTP verification
-     - Order Processing: Integrated VNPay gateway and a background service (Order AutoCancelService) to manage expired unpaid orders
-     - Inventory: Managed stock levels through Good Received Notes (GRN)
-     - Design Patterns: MediatR (CQRS), Repository Pattern, and Fluent Validation
-   - Source: https://github.com/thaovy3724/ASP.NET
+- Key features:
+  - Automated localized audio narration (Location Tracking or QR Code)
+  - Role-Based Access Control (Admins, Merchants, Users)
+  - Integrated booking & payment
+- Tech: React Native · React.js · Java Spring Boot · MySQL
+
+[Source →](https://github.com/thankhanh/Seminar_sgu) · ![Repo](https://img.shields.io/github/stars/thankhanh/Seminar_sgu)
+
+</details>
+
+<details>
+<summary><strong>StoreApp — Store Management System (E-commerce Backend)</strong></summary>
+
+**Role:** Backend Developer  
+**Architecture:** ASP.NET Core 9.0 (Clean Architecture / Onion)
+
+- Key features:
+  - JWT Authentication + Refresh Tokens + email OTP
+  - VNPay integration + Order AutoCancel background service
+  - Inventory management via Good Received Notes (GRN)
+  - Design patterns: MediatR (CQRS), Repository Pattern, Fluent Validation
+- Tech: ASP.NET Core 9.0 · MediatR · EF Core · VNPay
+
+[Source →](https://github.com/thaovy3724/ASP.NET) · ![Repo](https://img.shields.io/github/stars/thaovy3724/ASP.NET)
+
+</details>
 
 ---
 
