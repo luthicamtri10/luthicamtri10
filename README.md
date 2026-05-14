@@ -42,19 +42,30 @@ I'm a fourth-year Software Engineering student at Sai Gon University (SGU). I'm 
 **Tech Stack (Icons)**
 
 <p align="left">
-	<img alt="dotnet" src="https://cdn.simpleicons.org/dotnet/ffffff" width="36" />
-	<img alt="csharp" src="https://cdn.simpleicons.org/csharp/ffffff" width="36" />
-	<img alt="java" src="https://cdn.simpleicons.org/java/ffffff" width="36" />
-	<img alt="spring" src="https://cdn.simpleicons.org/spring/ffffff" width="36" />
-	<img alt="react" src="https://cdn.simpleicons.org/react/61dafb" width="36" />
-	<img alt="nextjs" src="https://cdn.simpleicons.org/nextdotjs/ffffff" width="36" />
-	<img alt="tailwindcss" src="https://cdn.simpleicons.org/tailwindcss/38bdf8" width="36" />
-	<img alt="react-native" src="https://cdn.simpleicons.org/react/61dafb" width="36" />
-	<img alt="mysql" src="https://cdn.simpleicons.org/mysql/4479a1" width="36" />
-	<img alt="mssql" src="https://cdn.simpleicons.org/microsoftsqlserver/ffffff" width="36" />
-	<img alt="docker" src="https://cdn.simpleicons.org/docker/2496ed" width="36" />
-	<img alt="github" src="https://cdn.simpleicons.org/github/ffffff" width="36" />
-	<img alt="postman" src="https://cdn.simpleicons.org/postman/ff6c37" width="36" />
+  <img alt="C#" src="https://img.shields.io/badge/C%23-.NET-512BD4?logo=dotnet&logoColor=white" />
+  <img alt="Java" src="https://img.shields.io/badge/Java-Spring-6DB33F?logo=java&logoColor=white" />
+  <img alt="Spring Boot" src="https://img.shields.io/badge/Spring-Boot-6DB33F?logo=spring&logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/React-React-61DAFB?logo=react&logoColor=black" />
+  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-SSR-000000?logo=nextdotjs&logoColor=white" />
+  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind-Tailwind-38BDF8?logo=tailwindcss&logoColor=white" />
+  <img alt="React Native" src="https://img.shields.io/badge/React_Native-Mobile-61DAFB?logo=react&logoColor=black" />
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-Database-4479A1?logo=mysql&logoColor=white" />
+  <img alt="SQL Server" src="https://img.shields.io/badge/SQLServer-Database-CC2927?logo=microsoftsqlserver&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-Container-2496ED?logo=docker&logoColor=white" />
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-Version-Control-181717?logo=github&logoColor=white" />
+  <img alt="Postman" src="https://img.shields.io/badge/Postman-API-FF6C37?logo=postman&logoColor=white" />
+</p>
+
+**Engineering Summary**
+
+- **Primary domains:** Fullstack web & cross-platform mobile development
+- **Architectures:** Clean Architecture (Onion), CQRS with MediatR, RESTful APIs
+- **Dev tools:** Docker, Git, Postman, EF Core
+- **Focus areas:** Scalable backend, RBAC/security, payment integration, location-based features
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=luthicamtri10&show_icons=true&theme=dark&hide_border=true" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luthicamtri10&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
 </p>
 
 
