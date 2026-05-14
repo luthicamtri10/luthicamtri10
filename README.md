@@ -39,7 +39,25 @@ Tôi là sinh viên năm tư ngành Kỹ thuật Phần mềm tại Trường Đ
 - **Frontend:** React.js, Next.js, Tailwind CSS
 - **Mobile:** React Native (Cross-platform) — đã triển khai tính năng như Location Tracking và QR Scanning
 - **Database & Tools:** SQL Server, MySQL, Entity Framework Core, Git/GitHub, Docker, Postman
-- **Ngôn ngữ:** TOEIC 670
+ 
+**Tech Stack (Icons)**
+
+<p align="left">
+	<img alt="dotnet" src="https://cdn.simpleicons.org/dotnet/ffffff" width="36" />
+	<img alt="csharp" src="https://cdn.simpleicons.org/csharp/ffffff" width="36" />
+	<img alt="java" src="https://cdn.simpleicons.org/java/ffffff" width="36" />
+	<img alt="spring" src="https://cdn.simpleicons.org/spring/ffffff" width="36" />
+	<img alt="react" src="https://cdn.simpleicons.org/react/61dafb" width="36" />
+	<img alt="nextjs" src="https://cdn.simpleicons.org/nextdotjs/ffffff" width="36" />
+	<img alt="tailwindcss" src="https://cdn.simpleicons.org/tailwindcss/38bdf8" width="36" />
+	<img alt="react-native" src="https://cdn.simpleicons.org/react/61dafb" width="36" />
+	<img alt="mysql" src="https://cdn.simpleicons.org/mysql/4479a1" width="36" />
+	<img alt="mssql" src="https://cdn.simpleicons.org/microsoftsqlserver/ffffff" width="36" />
+	<img alt="docker" src="https://cdn.simpleicons.org/docker/2496ed" width="36" />
+	<img alt="github" src="https://cdn.simpleicons.org/github/ffffff" width="36" />
+	<img alt="postman" src="https://cdn.simpleicons.org/postman/ff6c37" width="36" />
+</p>
+
 
 ---
 

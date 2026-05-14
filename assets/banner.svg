@@ -1,20 +1,82 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Banner - Lữ Thị Cẩm Tri">
   <defs>
-    <linearGradient id="g" x1="0" x2="1">
-      <stop offset="0%" stop-color="#06b6d4"/>
-      <stop offset="100%" stop-color="#7c3aed"/>
+    <linearGradient id="grad" x1="0" x2="1">
+      <stop offset="0%" stop-color="#06b6d4">
+        <animate attributeName="offset" values="0;0.2;0" dur="6s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="50%" stop-color="#7c3aed">
+        <animate attributeName="offset" values="0.5;0.8;0.5" dur="6s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="100%" stop-color="#f472b6">
+        <animate attributeName="offset" values="1;0.9;1" dur="6s" repeatCount="indefinite" />
+      </stop>
     </linearGradient>
+    <style type="text/css"><![CDATA[
+      .bg { fill: #0b1220 }
+      .card { fill: url(#grad); opacity: 0.14; rx: 14 }
+      .title { font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, Arial; fill: #fff }
+      .tech { font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, Arial; font-size:14px; fill:#fff }
+      .badge { fill: #ffffff10; stroke: #ffffff22; stroke-width:1 }
+    ]]></style>
   </defs>
-  <rect width="100%" height="100%" fill="#0f172a" />
-  <rect x="30" y="30" width="1140" height="240" rx="14" fill="url(#g)" opacity="0.12" />
-  <g font-family="Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial" fill="#fff">
-    <text x="60" y="120" font-size="44" font-weight="700">Lữ Thị Cẩm Tri</text>
-    <text x="60" y="170" font-size="20" fill="#e6eef8">Fullstack Developer — Vibe Coding</text>
+
+  <rect width="100%" height="100%" class="bg" rx="0"/>
+  <rect x="24" y="30" width="1152" height="240" rx="14" class="card" />
+
+  <g>
+    <text x="60" y="110" class="title" font-size="44" font-weight="700">Lữ Thị Cẩm Tri</text>
+    <text x="60" y="150" class="title" font-size="18" fill="#e6eef8">Fullstack Developer — Vibe Coding</text>
   </g>
-  <g transform="translate(960,40)">
-    <rect x="0" y="0" width="180" height="220" rx="10" fill="#ffffff10" />
-    <text x="12" y="120" font-family="Inter, system-ui, -apple-system" font-size="12" fill="#fff">Ho Chi Minh City</text>
-    <text x="12" y="145" font-family="Inter" font-size="12" fill="#fff">Spring 2026</text>
+
+  <!-- Animated tech marquee -->
+  <g id="tech-group" transform="translate(60,200)">
+    <g id="marquee">
+      <!-- Repeated badges -->
+      <g transform="translate(0,0)">
+        <rect x="0" y="-18" width="110" height="28" rx="6" class="badge" />
+        <text x="12" y="2" class="tech">C# · .NET 9</text>
+      </g>
+      <g transform="translate(130,0)">
+        <rect x="0" y="-18" width="170" height="28" rx="6" class="badge" />
+        <text x="12" y="2" class="tech">Java · Spring Boot</text>
+      </g>
+      <g transform="translate(320,0)">
+        <rect x="0" y="-18" width="130" height="28" rx="6" class="badge" />
+        <text x="12" y="2" class="tech">React · Next.js</text>
+      </g>
+      <g transform="translate(470,0)">
+        <rect x="0" y="-18" width="140" height="28" rx="6" class="badge" />
+        <text x="12" y="2" class="tech">Tailwind · React Native</text>
+      </g>
+      <g transform="translate(630,0)">
+        <rect x="0" y="-18" width="160" height="28" rx="6" class="badge" />
+        <text x="12" y="2" class="tech">SQL Server · MySQL · EF Core</text>
+      </g>
+      <g transform="translate(810,0)">
+        <rect x="0" y="-18" width="110" height="28" rx="6" class="badge" />
+        <text x="12" y="2" class="tech">Docker · Git</text>
+      </g>
+      <!-- duplicate sequence for seamless loop -->
+      <g transform="translate(940,0)">
+        <rect x="0" y="-18" width="110" height="28" rx="6" class="badge" />
+        <text x="12" y="2" class="tech">C# · .NET 9</text>
+      </g>
+      <g transform="translate(1070,0)">
+        <rect x="0" y="-18" width="170" height="28" rx="6" class="badge" />
+        <text x="12" y="2" class="tech">Java · Spring Boot</text>
+      </g>
+    </g>
+    <!-- animate marquee leftwards -->
+    <animateTransform xlink:href="#marquee" attributeName="transform" type="translate" from="0 0" to="-1070 0" dur="12s" repeatCount="indefinite" />
   </g>
+
+  <!-- Location + grad details box -->
+  <g transform="translate(960,48)">
+    <rect x="0" y="0" width="200" height="120" rx="10" fill="#ffffff08" stroke="#ffffff20"/>
+    <text x="16" y="36" class="tech" font-size="13">📍 Ho Chi Minh City</text>
+    <text x="16" y="60" class="tech" font-size="13">🎓 Spring 2026</text>
+    <!-- TOEIC removed per request -->
+  </g>
+
 </svg>
